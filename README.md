@@ -25,7 +25,7 @@ This is how the it looks like on android device
 1. Test on iOS device
 
 ```
-You can do a pull request and merge the nay feature you need
+You can do a pull request and merge the any feature you want or want to fix the above To-Dos
 ```
 
 ### To Run the app in your local machine
