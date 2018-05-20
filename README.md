@@ -41,6 +41,18 @@ r
 1. Implementing Seekbar
 
 1. Implementing Canvas,Draw, Exapnd Layout, Dynamic Data etc
+
+1. Static UI
+
+1. Seekbar Painting
+
+1. Seekbar Dragging
+
+1. Audio Player
+
+1. Audio Playlist
+
+1. Audio Visualizer
 ## Built By
 
 * [Himanshu Singh](http://www.github.com/hi-manshu) - Just another guy.
