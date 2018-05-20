@@ -7,17 +7,12 @@ A new Flutter Flutter Music App built playing with animation and local music fil
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-
 ### The Screen
 
 This is how the it looks like on android device
 <br/>
-<img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss0.jpg" height = "300em">.
-<img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss1.jpg" height = "300em">.
+<img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss0.jpg" height = "500em">.
+<img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss1.jpg" height = "500em">.
 
 ### To-Do
 1. Add Dynamic Permission for Audio Setting in Android lib dynamically
