@@ -40,7 +40,7 @@ r
 
 1. Implementing Seekbar
 
-1. Implementing Canvas,Draw, Exapnd Layout, Dynamic Data.
+1. Implementing Canvas,Draw, Exapnd Layout, Dynamic Data etc
 ## Built By
 
 * [Himanshu Singh](http://www.github.com/hi-manshu) - Just another guy.
