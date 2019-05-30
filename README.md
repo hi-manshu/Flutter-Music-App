@@ -1,6 +1,6 @@
 # Flutter Music App
 
-A new Flutter Flutter Music App built playing with animation and local music files from Soundcloud
+A new Flutter Music App built with a play button and animation and local music files from Soundcloud
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ For help getting started with Flutter, view our online
 
 ### The Screen
 
-This is how the it looks like on android device
+This is how the app looks like on android device
 <br/>
 <img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss2.jpg" height = "500em">.
 <img src="https://github.com/hi-manshu/Flutter-Music-App/blob/master/ss3.jpg" height = "500em">.
